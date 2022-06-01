@@ -2,6 +2,17 @@
 # Demand_Forecast_Wine_Business
 Demand Forecast for a Wine Business using Prophet (PT-BR)
 
+Based on the requirements of a job opening in the field, I've created this project to demonstrate how to use machine learning to predict the demand for wine.
+
+<center><img alt="Vaga" width="50%" src="https://github.com/rafaelnduarte/sigmoidal_data/blob/master/Screen%20Shot%202021-04-01%20at%2012.04.22.png?raw=true"></center>
+
+As you can see in the picture, the hiring manager describes their goal as finetuning their forecasting algorithm. Being a special and unique market, they need someone who understands the ins and outs of wine to develop this solution.
+
+With that in mind, let's analyze some wine data and find a solution that could work for them as an MVP of the product.
+
+[CLICK HERE TO ACCESS THE PROJECT](https://colab.research.google.com/drive/1iJLvj51HxVXkDnNZ7T0HSQgy02SohHfJ?usp=sharing)
+- - - 
+
 # Projeto de Previsão de Demanda (Time Series Forecasting)
 
 Baseado nos requisitos de uma [vaga real](https://www.linkedin.com/jobs/view/2435754417), vamos estruturar um problema na área, para que você possa ter um entendimento de como um projeto de Data Science pode acontecer no mundo real, e quem sabe até te ajudar a conseguir a vaga, que continua aberta até a data de hoje (01/04/2021).
