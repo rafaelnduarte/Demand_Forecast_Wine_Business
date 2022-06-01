@@ -1,6 +1,6 @@
 [![author](https://img.shields.io/badge/author-rafaelnduarte-red.svg)](https://www.linkedin.com/in/rafael-n-duarte/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/rafaelnduarte/portfolio/issues)
-# Demand_Forecast_Wine_Business
-Demand Forecast for a Wine Business using Prophet (PT-BR)
+
+# Demand Forecast for a Wine Business
 
 Based on the requirements of a job opening in the field, I've created this project to demonstrate how to use machine learning to predict the demand for wine.
 
@@ -12,7 +12,7 @@ With that in mind, let's analyze some wine data and find a solution that could w
 
 [CLICK HERE TO ACCESS THE PROJECT](https://colab.research.google.com/drive/1iJLvj51HxVXkDnNZ7T0HSQgy02SohHfJ?usp=sharing)
 - - - 
-
+[PT-BR]
 # Projeto de Previsão de Demanda (Time Series Forecasting)
 
 Baseado nos requisitos de uma [vaga real](https://www.linkedin.com/jobs/view/2435754417), vamos estruturar um problema na área, para que você possa ter um entendimento de como um projeto de Data Science pode acontecer no mundo real, e quem sabe até te ajudar a conseguir a vaga, que continua aberta até a data de hoje (01/04/2021).
